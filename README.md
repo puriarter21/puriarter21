@@ -1,9 +1,16 @@
-Hello! I'm Pablo Uriarte, a Master's student at the Government School of Tecnológico de Monterrey, where I also work at their Data Science Center as a Research Assistant. At the same time I collaborate with professor Phd, Jose Ramirez Marquez from Steven's Institute of Technology.
+Hello, my name is Pablo Cesar Uriarte
 
-Research Project:  Mapa_Migracion_Irregular_Mexicorregula/Assesing Vulnerability - Draft.pdf
-Check out my draft research article titled Assessing Vulnerability Due to Infrastructure Capacity and Insecurity in Irregular Migration Routes: An Institutional Evaluation of the Mexico-U.S. Corridor. In this project, I utilize data processing tools mainly in Python, such as; Pandas, Geopandas, matlibplot, etc. And ArcGIS to create a graph network that represents the vulnerabilities faced by irregular migrants traveling through Mexico.
+• Mexico City
+• puriarte@uabc.edu.mx
+• (+52) 686 133 1883
+• linkedin.com/in/puriarter
+• github.com/puriarter21
 
-I'm currently working in some projects related to data analysis, Natural Language Processing (NLP), GIS data ecosystems, and data visualization. I code primarly in Python and R, and im adept to learn new coding languages. I have practical knowledge of database administration, where I have efficiently managed and organized vast datasets. Beyond administration, I excel at extracting insights from data sets, to support decision-making processes, and driving development strategies. I'm passionate about continuous learning and the application of data science to solve complex problems. Feel free to connect with me or explore my projects!
+I am a Master’s candidate in Public Administration and Public Policy at the Tecnológico de Monterrey, School of Government and Public Transformation, with a graduation date in November 2024. For two years, I worked as a research assistant at the Data Science Center of this same institution, where I performed data analysis and cleaning for projects involving natural language processing (NLP) and machine learning (ML), among others.
+
+I recently completed a research stay with Dr. José Ramírez Márquez at Stevens Institute of Technology, working on a project analyzing vulnerabilities in irregular migration routes in Mexico. In this project, I efficiently used tools such as ArcGIS Pro, as well as GeoPandas and Matplotlib in Python, to map migration flows and the associated vulnerabilities along the North American migration corridor, while managing geographic databases. Additionally, I have basic knowledge in other programming languages such as R and Jav. As well as good proficiency in data visualization software like Tableau and PowerBI, and advanced knowledge of Excel.
+
+My skills focus on using data to support informed decision-making in areas such as mobility, human rights, vulnerability, and resilience. My passion for continuous learning and solving complex problems through data science has allowed me to collaborate on multidisciplinary projects with government entities and private organizations. I am open to participating in exciting projects where I can apply and expand my skills.
 
 Im open to collaborate in exciting new projects.
 
